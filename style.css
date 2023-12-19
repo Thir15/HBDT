@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url("Happy\ birthday\ Tanuu.png");
+    background-size: cover;
+    background-position: center;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    height: 100vh;
+}
